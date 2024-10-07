@@ -1,0 +1,3 @@
+[submodule "1_Communiquer_avec_ma_machine"]
+	path = 1_Communiquer_avec_ma_machine
+	url = git@github.com:maevabrtl/communiquer_avec_ma_machine.git
